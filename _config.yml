@@ -1,0 +1,3 @@
+remote_theme: pages-themes/tactile@v0.2.0
+name: bad-hosts
+description: A huge hosts file for blocking ads, trackers and malware hosts.
