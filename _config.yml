@@ -1,3 +1,7 @@
 remote_theme: pages-themes/hacker@v0.2.0
 name: bad-hosts
 description: A huge hosts file for blocking ads, trackers and malware hosts.
+navigation:
+- text: Introduction
+  internal: true
+  url: ./
