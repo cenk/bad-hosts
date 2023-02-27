@@ -7,7 +7,7 @@ A huge hosts file for blocking ads, trackers and malware hosts.
 
 - Unique hostnames: 1,744,763
 - Unique Adblock hostnames: 737,282
-- Last update: 27 Feb 2023 16:56:07 UTC
+- Last update: 27 Feb 2023 17:02:28 UTC
 - Version: 2023.02.27.002
 
 
