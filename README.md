@@ -7,8 +7,8 @@ A blacklist file for blocking ads, trackers and malware domains in hosts, adbloc
 
 - Unique hostnames: 1,754,965
 - Unique Adblock hostnames: 760,688
-- Last update: 11 Mar 2023 20:43:58 UTC
-- Version: 2023.03.11.006
+- Last update: 11 Mar 2023 20:51:36 UTC
+- Version: 2023.03.11.007
 
 
 ### Downloads:
