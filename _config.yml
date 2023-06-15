@@ -3,4 +3,3 @@ exclude: [hosts, hosts-ipv6, bad-hosts-abp, bad-hosts-domains, bad-hosts-wildcar
 show_downloads: false
 github:
   is_project_page: false
-  
