@@ -1,5 +1,1 @@
 remote_theme: pages-themes/cayman@v0.2.0
-exclude: [hosts, hosts-ipv6, bad-hosts-abp, bad-hosts-domains, bad-hosts-wildcard, bad-hosts-dnsmasq, bad-hosts-rpz, bad-hosts-unbound, LICENSE]
-show_downloads: false
-github:
-  is_project_page: false
