@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+.btn {
+  background-color: #3a3b3c !important;
+}
 
 .page-header {
   color: #3a3b3c !important;
