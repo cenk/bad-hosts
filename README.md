@@ -5,8 +5,8 @@ A blacklist file for blocking ads, trackers and malware domains.
 
 - Unique domains: 1,205,061
 - Without subdomains: 465,468
-- Last update: 02 Jul 2023 18:43:21 UTC
-- Version: 2023.07.02.06
+- Last update: 02 Jul 2023 19:02:28 UTC
+- Version: 2023.07.02.07
 
 
 ### Downloads:
