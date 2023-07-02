@@ -5,8 +5,8 @@ A blacklist file for blocking ads, trackers and malware domains.
 
 - Unique domains: 1,205,061
 - Without subdomains: 465,468
-- Last update: 02 Jul 2023 18:33:52 UTC
-- Version: 2023.07.02.05
+- Last update: 02 Jul 2023 18:43:21 UTC
+- Version: 2023.07.02.06
 
 
 ### Downloads:
@@ -17,9 +17,9 @@ A blacklist file for blocking ads, trackers and malware domains.
 | *Wildcard domains* | 465,468 | [Download](https://raw.githubusercontent.com/cenk/bad-hosts/main/bad-hosts-wildcard) |
 | *dnsmasq*          | 465,468 | [Download](https://raw.githubusercontent.com/cenk/bad-hosts/main/bad-hosts-dnsmasq) |
 | *Unbound*          | 465,468 | [Download](https://raw.githubusercontent.com/cenk/bad-hosts/main/bad-hosts-unbound) |
-
-
 | *RPZ*              | 930,936 | [Download](https://raw.githubusercontent.com/cenk/bad-hosts/main/bad-hosts-rpz) |
 | *hosts*            | 1,205,061 | [Download](https://raw.githubusercontent.com/cenk/bad-hosts/main/hosts) |
 | *hosts (ipv6)*     | 1,205,061 | [Download](https://raw.githubusercontent.com/cenk/bad-hosts/main/hosts-ipv6) |
 | *Plain domains*    | 1,205,061 | [Download](https://raw.githubusercontent.com/cenk/bad-hosts/main/bad-hosts-domains) |
+
+
